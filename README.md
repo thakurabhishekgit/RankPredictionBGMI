@@ -61,7 +61,6 @@ Ensure you have the following installed:
 git clone https://github.com/thakurabhishekgit/RankPredictionBGMI.git
 cd RankPredictionBGMI
 ```
-
 ### Install Dependencies
 ```sh
 pip install -r requirements.txt
