@@ -9,7 +9,6 @@ This project is an attempt to **understand and predict how ranking systems work 
 Many competitive games have hidden ranking systems that depend on various gameplay metrics such as kills, damage dealt, placement, assists, and other factors. This project uses **Machine Learning (ML)** to analyze these metrics and predict the player's **Plus/Minus Ranking Points** after each match.
 
 ## 🎯 Objective
-
 - **Analyze** the factors affecting rank gain/loss in BGMI.
 - **Predict** how many ranking points a player will gain or lose after a match.
 - **Provide insights** into what gameplay actions influence ranking the most.
