@@ -1,6 +1,5 @@
 # BGMI Rank Prediction Using Machine Learning
 ## 📌 Introduction
-
 This project is an attempt to **understand and predict how ranking systems work in BGMI (Battlegrounds Mobile India) and other competitive games**. The curiosity behind this project came from the question:
 
 > **"How does BGMI calculate ranking points, and what factors influence rank gain/loss?"**
