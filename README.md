@@ -30,7 +30,6 @@ The dataset used for this project is **bgmi_ranking_final_with_crown_and_type.cs
 - `plus_minus_points`: The number of ranking points a player gains or loses after the match.
 
 ## ⚙️ Model Details
-
 The model is built using **XGBoost Regressor**, which is well-suited for structured tabular data and provides accurate predictions. The key steps in model training include:
 
 1. **Data Preprocessing**: One-hot encoding for categorical features (`tier`, `game_type`), normalization of numerical features.
